@@ -112,7 +112,7 @@ while true; do
     echo -e "This is part of my learning journey\n"
     echo "############ MAIN MENU ############"
     echo "1. Manage logs and files"
-    echo "2. Check your internet configuration"
+    echo "2. Manage your Network"
     echo "3. Exit"
     read -p "Choose a number (1-3): " USEROPTION
 
